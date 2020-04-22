@@ -120,6 +120,16 @@ html {
 	width:100%
 }
 
+.dekart {
+	position: relative;
+	left: 860px;
+}
+
+.turn {
+	position: relative;
+	left: 300px;
+}
+
 ::-moz-selection {
 	color:#fff;
 	text-shadow:none;
